@@ -1,0 +1,2 @@
+SMTP - Brevo ( NodeMailer - Package )
+Database - MongoDB
