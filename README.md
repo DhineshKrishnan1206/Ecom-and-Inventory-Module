@@ -1,4 +1,4 @@
-# eCommerce and Inventory Module
+# ECommerce and Inventory Modules
 
 This project is an eCommerce and Inventory Management system with both frontend and backend components. The backend is currently in the initial stage of development, and it provides the foundational features required for user management and authentication. The frontend will be developed in future stages.
 
